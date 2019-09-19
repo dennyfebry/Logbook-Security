@@ -1,0 +1,4 @@
+#content{
+	max-height: 445px; /*cuma supaya konten terlihat berisi. Kalau sudah diisi teks, baris ini harus dihapus.*/
+	margin:0px 20px;
+}
